@@ -1,0 +1,32 @@
+header{
+	background-color: purple;
+	display: flex;
+	width: 90%
+}
+aside{
+	background-color: gray;
+	display:inline-flex;
+	width: 20%
+}
+main{
+	background-color: red;
+	display:inline-flex;
+	width: 70%
+}
+main article{
+	font-size: 30px;
+	text-align:center;
+}
+aside article h3{
+	color: blue;
+}
+.experiencia{
+	font-size: 40px;
+	font-family: arial;
+	color: blue;
+}
+#nombre{
+	font-size: 40px;
+	font-family: italica;
+	color: gray;
+}
