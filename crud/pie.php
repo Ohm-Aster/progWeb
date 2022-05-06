@@ -1,6 +1,5 @@
 </main>
-    <span>CRUD de PHP</a>
-    </span>
+    <span>CRUD de PHP</span>
 </footer>
 </body>
 </html>
