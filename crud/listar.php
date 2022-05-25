@@ -25,6 +25,7 @@ $videojuegos = $resultado->fetch_all(MYSQLI_ASSOC);
                 </tr>
                 <td>
                     <a href="eliminar.php?id=<?php echo $videojuego["id"] ?>">Eliminar</a>
+                    <a href="editar.php?id=<?php echo $videojuego["id"] ?>">Editar</a>
                 </td>
             <?php } ?>
     </tbody>
